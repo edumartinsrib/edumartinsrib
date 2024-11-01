@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @edumartinsrib
 
-- Tech Lover and Software Developer!
+- Tech Lover and Java Software Developer!
